@@ -26,5 +26,7 @@
 
 ### Misc
 
+* `zo` - Open folded lines.
+* `zc` - Close folded lines.
 * `:diffupdate` - Refresh the diff comparisons.
 * `:diffoff` - Turn off diff mode.
