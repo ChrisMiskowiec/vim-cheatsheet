@@ -1,5 +1,16 @@
 # vim-cheatsheet
 
+## Buffers
+
+## Windows
+
+### Window Navigation
+
+* `ctrl-w, ctrl-w` - Cycle to next window.
+* `ctrl-w, n` - Jump to window *n*.
+* `ctrl-w, l` - Jump to window on right.
+* `ctrl-w, h` - Jump to window on left.
+
 ## Diff
 
 ### Open from cmd line
@@ -10,10 +21,7 @@
 
 ### Navigation
 
-* `ctrl-w, ctrl-w` - Cycle to next window.
-* `ctrl-w, n` - Jump to window *n*.
-* `ctrl-w, l` - Jump to window on right.
-* `ctrl-w, h` - Jump to window on left.
+* Use [window navigation](#window-navigation).
 * `]c` - Jump to next change.
 * `[c` - Jump to previous change.
 
